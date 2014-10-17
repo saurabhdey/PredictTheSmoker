@@ -1,5 +1,5 @@
 #####
-######   The address is a mess , so extracting the important part only.
+######   The address data is a mess , so extracting the important part only.
 #####
 nsdata <- read.table("C:/Users/shubhro/Programming/Rprogramming/swissdata/combined.txt", header=TRUE,
 fill=TRUE,sep="\t",colClasses=c("character","character","character","character","character",
