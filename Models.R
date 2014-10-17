@@ -60,7 +60,7 @@ testset <- combo[-inTraining,]
 
 
 #===========================================Logitstart============================================
-logitFit = glm(Smokerbin~AgeD+as.factor(Gender)+as.factor(State)+LnPCFA,data=trainset,family=binomial("logit"))
+#logitFit = glm(Smokerbin~AgeD+as.factor(Gender)+as.factor(State)+LnPCFA,data=trainset,family=binomial("logit"))
 #logitest = predict(logitmod1,newdata = testset) 
 #===========================================Logitend============================================
 
