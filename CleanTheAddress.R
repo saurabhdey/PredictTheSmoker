@@ -1,4 +1,4 @@
-# The following code scans the address field to extract the zip and state. Unfortunately the original data was never 
+# The following code scans the address field to extract zip and state. Unfortunately the original data was never 
 # as promised.
 #
 
