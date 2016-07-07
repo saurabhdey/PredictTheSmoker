@@ -1,5 +1,4 @@
-# The following code scans the address field to extract zip and state. Unfortunately the original data was never 
-# not clean as promised
+# The following code scans the address field to extract zip and state.
 #
 
 nsdata <- read.table("C:/Users/shubhro/Programming/Rprogramming/swissdata/combined.txt", header=TRUE,
